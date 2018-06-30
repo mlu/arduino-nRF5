@@ -1,10 +1,82 @@
 # Arduino Core for Nordic Semiconductor nRF5 based boards
 
-[![Build Status](https://travis-ci.org/sandeepmistry/arduino-nRF5.svg?branch=master)](https://travis-ci.org/sandeepmistry/arduino-nRF5)
+[![Build Status](https://travis-ci.org/sandeepmistry/arduino-nRF5.svg?branch=master)](https://travis-ci.org/sandeepmistry/arduino-nRF5) [![OpenCollective](https://opencollective.com/arduino-nRF5/backers/badge.svg)](#backers)
+[![OpenCollective](https://opencollective.com/arduino-nRF5/sponsors/badge.svg)](#sponsors)
+
 
 Program your [Nordic Semiconductor](https://www.nordicsemi.com) nRF51 or nRF52 board using the [Arduino](https://www.arduino.cc) IDE.
 
 Does not require a custom bootloader on the device.
+
+## Backers
+
+Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/arduino-nRF5#backer)]
+
+<a href="https://opencollective.com/arduino-nRF5/backer/0/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/0/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/1/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/1/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/2/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/2/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/3/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/3/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/4/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/4/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/5/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/5/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/6/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/6/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/7/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/7/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/8/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/8/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/9/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/9/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/10/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/10/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/11/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/11/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/12/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/12/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/13/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/13/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/14/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/14/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/15/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/15/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/16/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/16/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/17/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/17/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/18/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/18/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/19/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/19/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/20/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/20/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/21/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/21/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/22/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/22/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/23/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/23/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/24/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/24/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/25/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/25/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/26/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/26/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/27/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/27/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/28/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/28/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/backer/29/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/backer/29/avatar.svg"></a>
+
+## Sponsors
+
+Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/arduino-nRF5#sponsor)]
+
+<a href="https://opencollective.com/arduino-nRF5/sponsor/0/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/1/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/2/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/3/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/4/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/5/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/6/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/7/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/8/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/9/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/9/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/10/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/10/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/11/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/11/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/12/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/12/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/13/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/13/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/14/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/14/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/15/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/15/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/16/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/16/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/17/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/17/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/18/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/18/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/19/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/19/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/20/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/20/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/21/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/21/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/22/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/22/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/23/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/23/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/24/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/24/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/25/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/25/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/26/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/26/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/27/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/27/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/28/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/28/avatar.svg"></a>
+<a href="https://opencollective.com/arduino-nRF5/sponsor/29/website" target="_blank"><img src="https://opencollective.com/arduino-nRF5/sponsor/29/avatar.svg"></a>
 
 ## Supported boards
 
@@ -15,14 +87,16 @@ Does not require a custom bootloader on the device.
  * [Shenzhen Taida Century Technology nRF52 low cost development board](https://www.aliexpress.com/item/NRF52832-high-cost-development-board-gold-core-board/32725601299.html)
  * [RedBear Blend 2](https://github.com/redbear/nRF5x#blend-2)
  * [RedBear Nano 2](https://github.com/redbear/nRF5x#ble-nano-2)
+ * [Bluey](https://github.com/electronut/ElectronutLabs-bluey)
+ * [hackaBLE](https://github.com/electronut/ElectronutLabs-hackaBLE)
 
 ### nRF51
  * [Plain nRF51 MCU](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF51822)
  * [BBC micro:bit](https://microbit.org)
+ * [Calliope mini](https://calliope.cc/en)
  * [Bluz DK](http://bluz.io)
  * Nordic Semiconductor  [nRF51822 Development Kit](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF51822-Development-Kit) + [nRF51422 Development Kit](https://www.nordicsemi.com/eng/Products/ANT/nRF51422-Development-Kit)
-  * PCA10000
-  * PCA10001, PCA10002, PCA10003, PCA10004 via nRF6310(nRFgo)
+ * Nordic SemiconductornRF51x22 Development Kits (PCA1000x)
  * [Nordic Semiconductor NRF51 Smart Beacon Kit](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF51822-Bluetooth-Smart-Beacon-Kit)
  * [Nordic Semiconductor NRF51 Dongle](http://www.nordicsemi.com/eng/Products/nRF51-Dongle)
  * [OSHChip](http://www.oshchip.org/)
@@ -31,6 +105,7 @@ Does not require a custom bootloader on the device.
  * [Waveshare BLE400](http://www.waveshare.com/wiki/BLE400)
  * [ng-beacon](https://github.com/urish/ng-beacon)
  * [TinyBLE](https://www.seeedstudio.com/Seeed-Tiny-BLE-BLE-%2B-6DOF-Mbed-Platform-p-2268.html)
+ * [Sino:bit](http://sinobit.org)
 
 ## Installing
 
@@ -56,7 +131,7 @@ No additional setup required.
 For 64-bit Linux users,  ```libc6:i386```, ```libstdc++6:i386```, ```libncurses5:i386``` and ```libudev1:i386``` need to be installed :
   * ```sudo dpkg --add-architecture i386```
   * ```sudo apt-get update```
-  * ```sudo apt-get install libc6:i386 libstdc++6:i386 libncurses5:i386 libudev1:i386```    
+  * ```sudo apt-get -y install libc6:i386 libstdc++6:i386 libncurses5:i386 libudev1:i386```
 
 #####  Windows
 
@@ -73,6 +148,13 @@ For 64-bit Linux users,  ```libc6:i386```, ```libstdc++6:i386```, ```libncurses5
  6. Click ```Replace Driver```
 
 __NOTE__: To roll back to the original driver go to: Device Manager -> Right click on device -> Check box for "Delete the driver software for this device" and click Uninstall
+
+###### Driver Setup for Black Magic Probe
+1. Download .inf file drivers from [blacksphere github](https://github.com/blacksphere/blackmagic/tree/master/driver)
+2. Plugin Black Magic Probe
+3. Point the installer to the folder containing blackmagic.inf
+
+__NOTE__: If using Windows 10 or Linux then two UART COM ports will be visible without requiring additional drivers
 
 ### Selecting a SoftDevice
 SoftDevices contain the BLE stack and housekeeping, and must be downloaded once before a sketch using BLE can be loaded.
